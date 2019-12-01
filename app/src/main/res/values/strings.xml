@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Android Labs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="TextView">Look at my GUI</string>
+    <string name="Button2Text">CLICK HERE</string>
+    <string name="CheckBox">Check this out!</string>
+    <string name="Switch">Switch on / off</string>
+    <string name="hint">Type here</string>
+    <string name="editTexthint">Type email here</string>
+    <string name="TextView3">Enter your email address:</string>
+    <string name="TextView4">Type your password:</string>
+    <string name="ButtonLogin">LOGIN</string>
+    <string name="p_profileTextView">Your profile</string>
+    <string name="p_nameTextView">Your name:</string>
+    <string name="p_emailTextView">Your email:</string>
+    <string name="p_pictureTextView">Your picture:</string>
+    <string name="p_nameEditTexthint">Type your name</string>
+    <string name="p_emailEditTexthint">Enter your email</string>
+    <string name="p_clickButton">Click the button..</string>
+    <string name="p_buttonTextView">Click the button above to take a picture</string>
+    <string name="BtnGoToChat">Go to chat</string>
+    <string name="BtnSend">SEND</string>
+    <string name="BtnReceive">RECEIVE</string>
+    <string name="editTextMsgHint">Type here</string>
+    <string name="RcvTextView">Received text</string>
+    <string name="SentTextView">Sent Text</string>
+    <string name="BtnWeatherText">Weather Forecast</string>
+    <string name="txtCurrentText">Current Temp</string>
+    <string name="txtMinText">Min Temp</string>
+    <string name="txtMaxText">Max Temp</string>
+    <string name="txtUVText">UV rating</string>
+    <string name="btnToolbarText">Go to Toolbar page</string>
+
+    <string name="choice1Text">Choice 1</string>
+    <string name="choice2Text">Choice 2</string>
+    <string name="choice3Text">Choice 3</string>
+    <string name="choice4Text">Choice 4</string>
+    <string name="txtDialogInfo">What is your new message?</string>
+    <string name="txtMsgTextHint">Type here</string>
+
+</resources>

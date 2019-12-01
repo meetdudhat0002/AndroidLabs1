@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/choice1"
+        android:icon="@drawable/choice1_24"
+        android:title="@string/choice1Text"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/choice2"
+        android:icon="@drawable/choice2_24"
+        android:title="@string/choice2Text"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/choice3"
+        android:icon="@drawable/choice3_24"
+        android:title="@string/choice3Text"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/choice4"
+        android:icon="@drawable/choice4_24"
+        android:title="@string/choice4Text"
+        app:showAsAction="never" />
+</menu>

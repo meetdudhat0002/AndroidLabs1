@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChatRoomActivity">
+
+
+        <ListView
+            android:id="@+id/chatListView"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:divider="@null"
+            android:transcriptMode="alwaysScroll">
+        </ListView>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        tools:context=".ChatRoomActivity">
+
+        <Button
+            android:id="@+id/BtnSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="sendChatMessage"
+            android:text="@string/BtnSend" />
+
+        <EditText
+            android:id="@+id/chatText"
+            android:layout_width="173dp"
+            android:layout_height="fill_parent"
+            android:ems="10"
+            android:hint="@string/editTextMsgHint"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/BtnReceive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="receiveChatMessage"
+            android:text="@string/BtnReceive" />
+    </LinearLayout>
+
+
+</LinearLayout>

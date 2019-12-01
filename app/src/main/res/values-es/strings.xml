@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratorios Android</string>
+    <string name="hello_message">Hola!</string>
+    <string name="ButtonText">Soy un boton</string>
+    <string name="TextView">Mira mi GUI</string>
+    <string name="Button2Text">HAGA CLIC AQUÍ</string>
+    <string name="CheckBox">¡Mira esto!</string>
+    <string name="Switch">Encender / apagar</string>
+    <string name="hint">Escriba aquí</string>
+    <string name="editTexthint">Escriba correo electrónico aquí</string>
+    <string name="TextView3">Ingrese su dirección de correo electrónico:</string>
+    <string name="TextView4">Escribe tu contraseña:</string>
+    <string name="ButtonLogin">INICIAR SESIÓN</string>
+    <string name="p_profileTextView">Tu perfil</string>
+    <string name="p_nameTextView">Tu nombre:</string>
+    <string name="p_emailTextView">Tu correo electrónico:</string>
+    <string name="p_pictureTextView">Su imagen:</string>
+    <string name="p_nameEditTexthint">Escriba su nombre</string>
+    <string name="p_emailEditTexthint">Introduce tu correo electrónico</string>
+    <string name="p_clickButton">Clic en el botón..</string>
+    <string name="p_buttonTextView">Haz clic en el botón de arriba para tomar una foto.</string>
+    <string name="BtnSend">ENVIAR</string>
+    <string name="BtnReceive">RECIBIR</string>
+    <string name="editTextMsgHint">Escriba aquí</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs Android</string>
+    <string name="hello_message">Bonjour!</string>
+    <string name="ButtonText">Je suis un bouton</string>
+    <string name="TextView">Regarde mon interface graphique</string>
+    <string name="Button2Text">CLIQUEZ ICI</string>
+    <string name="CheckBox">Regarde ça!</string>
+    <string name="Switch">Allumer / éteindre</string>
+    <string name="hint">Écrivez ici</string>
+    <string name="editTexthint">Tapez email ici</string>
+    <string name="TextView3">Entrez votre adresse email:</string>
+    <string name="TextView4">Tapez votre mot de passe:</string>
+    <string name="ButtonLogin">SIDENTIFIER</string>
+    <string name="p_profileTextView">Votre profil</string>
+    <string name="p_nameTextView">Votre nom:</string>
+    <string name="p_emailTextView">Votre email:</string>
+    <string name="p_pictureTextView">Ta photo:</string>
+    <string name="p_nameEditTexthint">Tapez votre nom</string>
+    <string name="p_emailEditTexthint">Entrer votre Email</string>
+    <string name="p_clickButton">Cliquez sur le bouton..</string>
+    <string name="p_buttonTextView">Cliquez sur le bouton ci-dessus pour prendre une photo</string>
+    <string name="BtnGoToChat">Aller discuter</string>
+    <string name="BtnSend">ENVOYER</string>
+    <string name="BtnReceive">RECEVOIR</string>
+    <string name="editTextMsgHint">Écrivez ici</string>
+    <string name="RcvTextView">Texte reçu</string>
+    <string name="SentTextView">Texte envoyé</string>
+</resources>
